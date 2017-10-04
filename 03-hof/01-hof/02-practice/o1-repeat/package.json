@@ -1,0 +1,17 @@
+{
+  "name": "o1-repeat",
+  "version": "1.0.0",
+  "description": "ejercicio",
+  "main": "repeat.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "GN",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
